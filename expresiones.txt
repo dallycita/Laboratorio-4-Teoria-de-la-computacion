@@ -1,0 +1,4 @@
+(a*|b*)+;aaabbb
+((ε|a)|b*)*;ab
+(a|b)*abb(a|b)*;aabbabb
+0?(1?)?0*;101
